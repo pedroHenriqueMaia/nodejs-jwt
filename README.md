@@ -5,7 +5,7 @@
   npm install
 ```
 
-2- Rodar projeto em desenvolivmento:
+2- Rodar projeto em desenvolvimento:
 ```cmd
   npm run start:dev
 ```
